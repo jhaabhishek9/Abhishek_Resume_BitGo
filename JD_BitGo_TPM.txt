@@ -1,1 +1,22 @@
+Technical Program Manager – BitGo (Bangalore)
+
+BitGo delivers custody, wallets, staking, trading, financing, and settlement services from regulated cold storage. BitGo serves thousands of institutions and handles a significant portion of Bitcoin network transactions.
+
+Responsibilities:
+- Lead and motivate a team of engineers and cross-functional stakeholders in building the Ecosystem product.
+- Ensure new asset integrations meet security, regulatory, and UX standards.
+- Own cross-functional programs end-to-end, delivering on time with high quality.
+- Build timelines, manage dependencies, and surface risks early.
+- Standardize processes and drive operational improvement.
+- Act as primary point of contact for stakeholders and communicate program progress.
+- Keep global teams aligned to strategic goals.
+- Track metrics and provide insights to continuously improve outcomes.
+
+Requirements:
+- 3+ years in program/project management in fintech/blockchain/tech.
+- Bachelor's in Engineering/Business (MBA a plus).
+- Strong SDLC understanding, agile delivery, and tooling (Jira, Confluence, GitHub, Asana).
+- Excellent communication and stakeholder management.
+- Startup execution mindset: ownership, speed, problem-solving.
+- Familiarity with crypto custody, staking, digital asset infrastructure.
 
